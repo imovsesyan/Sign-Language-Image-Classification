@@ -1,9 +1,3 @@
-# Sign-Language-Image-Classification
-Below is a **clean professional README.md** for your project repository. You can copy this directly into **README.md** in your GitHub project.
-
-I wrote it so it matches the **structure your assignment requires** and reflects **what you actually implemented**.
-
----
 
 # Hand Gesture Digit Recognition using MobileNetV2
 
