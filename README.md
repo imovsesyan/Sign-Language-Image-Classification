@@ -18,14 +18,6 @@ The project includes the full machine learning pipeline:
 
 The final trained model achieves **~90% validation accuracy** on the hand gesture dataset.
 
----
-
-# Team Members
-
-* *Add your name here*
-* *Add teammate names if applicable*
-
----
 
 # Repository Structure
 
